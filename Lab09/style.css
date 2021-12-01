@@ -1,0 +1,20 @@
+h2{
+    color: purple;
+    background-color: lavender;
+}
+
+button{
+    background-color:rgb(189, 253, 136);
+    color:black;
+    border: 2px solid black;
+}
+
+p{
+    color:royalblue;
+}
+
+.rst{
+    background-color:rgb(252, 192, 125);
+    color: black;
+    border: 2px solid black;
+}
